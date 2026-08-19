@@ -1,10 +1,12 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        Arrays.sort(nums);
         ArrayList<Integer> count = new ArrayList<>();
-        for(int i = 0; i < nums.length-1; i++){
-            if(nums[i] == nums[i+1]){
-                count.add(nums[i]);
+        for(int i = 0; i < nums.length; i++){
+            int val = Math.abs(nums[i]);
+            if(nums[val-1]>0){
+                nums[val-1] = Math.negateExact(nums[val-1]);
+            }else{
+                count.add(val);
             }
         }
         
