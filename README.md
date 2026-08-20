@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
