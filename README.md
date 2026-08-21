@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
