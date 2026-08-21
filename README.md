@@ -37,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 | [0136-single-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
