@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
