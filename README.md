@@ -17,6 +17,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
