@@ -111,4 +111,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
