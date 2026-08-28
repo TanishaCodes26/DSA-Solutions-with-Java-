@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
