@@ -80,12 +80,14 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
@@ -124,4 +126,8 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0183-customers-who-never-order) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
