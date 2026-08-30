@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0128-longest-consecutive-sequence) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -40,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
@@ -130,4 +133,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
