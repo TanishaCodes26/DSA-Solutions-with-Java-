@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
