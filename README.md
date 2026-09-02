@@ -30,6 +30,7 @@
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
