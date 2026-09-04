@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -104,6 +105,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
