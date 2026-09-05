@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -41,6 +42,7 @@
 | [0027-remove-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
