@@ -30,6 +30,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -108,6 +109,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
