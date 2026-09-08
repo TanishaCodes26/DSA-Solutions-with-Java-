@@ -100,6 +100,7 @@
 | [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [3870-count-commas-in-range](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
