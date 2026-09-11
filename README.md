@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +191,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
