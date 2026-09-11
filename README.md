@@ -36,6 +36,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
@@ -80,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -203,4 +206,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
