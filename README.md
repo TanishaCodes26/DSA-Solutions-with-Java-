@@ -54,6 +54,7 @@
 | [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -146,6 +147,7 @@
 | [0058-length-of-last-word](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
