@@ -71,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0128-longest-consecutive-sequence) |
@@ -148,6 +149,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
@@ -170,6 +172,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
