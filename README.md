@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0128-longest-consecutive-sequence) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
