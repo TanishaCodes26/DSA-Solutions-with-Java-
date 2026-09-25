@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
