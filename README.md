@@ -90,6 +90,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -158,6 +159,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
