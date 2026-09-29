@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
@@ -176,6 +177,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
