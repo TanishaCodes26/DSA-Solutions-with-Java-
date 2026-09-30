@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -190,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
 | ------- |
