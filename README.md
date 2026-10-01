@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
@@ -208,6 +209,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
