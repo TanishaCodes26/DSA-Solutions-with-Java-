@@ -101,6 +101,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +180,7 @@
 | [0205-isomorphic-strings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -204,6 +206,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
 ## Database
