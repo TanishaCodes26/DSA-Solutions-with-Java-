@@ -47,6 +47,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -277,6 +278,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
