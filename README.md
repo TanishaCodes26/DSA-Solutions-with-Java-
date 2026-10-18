@@ -40,6 +40,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
@@ -204,6 +205,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
