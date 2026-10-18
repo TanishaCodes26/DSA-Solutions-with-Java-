@@ -48,6 +48,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -204,6 +205,7 @@
 | [0238-product-of-array-except-self](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
 |  |
