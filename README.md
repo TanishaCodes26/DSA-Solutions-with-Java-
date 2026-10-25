@@ -46,6 +46,7 @@
 | [0875-koko-eating-bananas](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
