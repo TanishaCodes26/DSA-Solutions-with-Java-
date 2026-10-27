@@ -60,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0031-next-permutation) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0058-length-of-last-word) |
@@ -333,4 +336,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
