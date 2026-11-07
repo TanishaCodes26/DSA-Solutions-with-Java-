@@ -77,6 +77,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -92,6 +93,7 @@
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3498-reverse-degree-of-a-string) |
