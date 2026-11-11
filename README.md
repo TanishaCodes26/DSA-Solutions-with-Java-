@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0042-trapping-rain-water) |
@@ -126,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
