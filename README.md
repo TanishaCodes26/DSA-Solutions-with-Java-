@@ -56,6 +56,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -225,6 +226,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
 |  |
@@ -240,6 +242,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
