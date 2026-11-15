@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
@@ -136,6 +139,7 @@
 | [0217-contains-duplicate](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -145,6 +149,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -331,6 +336,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -339,6 +345,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -356,4 +363,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0005-longest-palindromic-substring) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
