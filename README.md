@@ -172,6 +172,7 @@
 | [0189-rotate-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0628-maximum-product-of-three-numbers) |
+| [3099-harshad-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3099-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
