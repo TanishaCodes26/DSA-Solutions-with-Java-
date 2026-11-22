@@ -41,6 +41,7 @@
 | [0525-contiguous-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0704-binary-search) |
@@ -147,6 +148,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 ## Counting
@@ -169,6 +171,7 @@
 | [0069-sqrtx](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
