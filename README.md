@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -203,6 +204,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 ## String
