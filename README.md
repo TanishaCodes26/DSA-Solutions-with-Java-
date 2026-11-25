@@ -232,6 +232,7 @@
 | [0567-permutation-in-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
@@ -393,4 +394,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
