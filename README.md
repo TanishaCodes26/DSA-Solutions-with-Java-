@@ -57,6 +57,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -157,6 +158,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0724-find-pivot-index](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3904-smallest-stable-index-ii) |
@@ -266,6 +270,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0643-maximum-average-subarray-i) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
@@ -346,6 +351,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/0680-valid-palindrome-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TanishaCodes26/DSA-Solutions-with-Java-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
 | ------- |
